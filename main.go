@@ -1,10 +1,9 @@
 package main
 
 import (
-	_ "auth-resource/docs"
-	authResource "auth-resource/src"
-	"auth-resource/src/model"
 	"fmt"
+	authResource "github.com/cyclops-top/auth-resource/src"
+	"github.com/cyclops-top/auth-resource/src/model"
 	"github.com/iris-contrib/middleware/cors"
 	"github.com/iris-contrib/swagger/v12"
 	"github.com/iris-contrib/swagger/v12/swaggerFiles"
