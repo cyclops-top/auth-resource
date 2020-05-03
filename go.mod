@@ -1,4 +1,4 @@
-module auth_resource
+module github.com/cyclops-top/auth-resource
 
 go 1.14
 
