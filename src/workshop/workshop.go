@@ -1,10 +1,10 @@
 package workshop
 
 import (
-	"auth-resource/src/context"
-	"auth-resource/src/core"
-	"auth-resource/src/model"
-	"auth-resource/src/service"
+	"github.com/cyclops-top/auth-resource/src/context"
+	"github.com/cyclops-top/auth-resource/src/core"
+	"github.com/cyclops-top/auth-resource/src/model"
+	"github.com/cyclops-top/auth-resource/src/service"
 	"github.com/kataras/iris/v12"
 	"github.com/kataras/iris/v12/hero"
 	"sort"

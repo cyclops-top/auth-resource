@@ -1,7 +1,7 @@
 package context
 
 import (
-	"auth-resource/src/model"
+	"github.com/cyclops-top/auth-resource/src/model"
 	"github.com/kataras/iris/v12"
 	"github.com/kataras/iris/v12/context"
 	"reflect"

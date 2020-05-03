@@ -1,9 +1,9 @@
 package auth_resource
 
 import (
-	"auth-resource/src/context"
-	"auth-resource/src/core"
-	"auth-resource/src/workshop"
+	"github.com/cyclops-top/auth-resource/src/context"
+	"github.com/cyclops-top/auth-resource/src/core"
+	"github.com/cyclops-top/auth-resource/src/workshop"
 	"github.com/kataras/iris/v12"
 	"github.com/kataras/iris/v12/core/router"
 )

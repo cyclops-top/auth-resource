@@ -1,10 +1,10 @@
 package service
 
 import (
-	"auth-resource/src/context"
-	"auth-resource/src/model"
 	"encoding/json"
 	"fmt"
+	"github.com/cyclops-top/auth-resource/src/context"
+	"github.com/cyclops-top/auth-resource/src/model"
 	"github.com/kataras/iris/v12"
 	"io/ioutil"
 	"net/http"
