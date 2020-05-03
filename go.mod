@@ -1,4 +1,4 @@
-module auth-resource
+module auth_resource
 
 go 1.14
 
